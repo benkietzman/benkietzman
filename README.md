@@ -1,21 +1,9 @@
-Software engineer specializing in C/C++ and PHP. Skilled in writing multi-threaded socket-level daemons on Linux servers.
-
-Databases:
-
-* MySQL
-* Oracle
-
-Operating Systems:
-
-* Solaris Unix
-* Ubuntu Linux
+Software engineer specializing in C/C++.  Skilled in writing multi-threaded socket-level daemons on Ubuntu Linux servers.  Focus toward building high speed network services with fault tolerance in mind.
 
 Programming Languages:
 
-* AngularJS
 * C/C++
 * JavaScript
-* jQuery (AJAX)
 * PHP
 
 Techniques:
