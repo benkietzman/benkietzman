@@ -26,5 +26,5 @@ Software engineer specializing in C/C++.  Skilled in writing multi-threaded sock
 * semaphores
 * signal handling
 * sockets (accept, bind, connect, getaddrinfo, etc...)
-* standard template library (STL) (list, map, mutex, string, streams, thread, vector, etc...)
+* standard template library (STL) (list, map, mutex, queue, string, streams, thread, vector, etc...)
 * threading
